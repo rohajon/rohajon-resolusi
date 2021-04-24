@@ -3,3 +3,4 @@ Rohajon Resolusi
 -Membuat platform pengelolana video
 -Membuat forum dikusi
 -Koloborasi dengan lebih banyak expert
+-membuat sistem data base
